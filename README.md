@@ -48,4 +48,3 @@ Here are a few things I've worked on recently:
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhikumar62010&show_icons=true&theme=tokyonight" alt="stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikumar62010&theme=tokyonight" alt="streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikumar62010&layout=compact&theme=tokyonight" alt="languages" /> </p>
