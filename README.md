@@ -26,6 +26,10 @@ goals and process improvements.</h4>
 
 ---
 
+
+### Github Readme Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishek62010)
+
 ### 🛠️ Tech Stack 🌐
 
 ```yaml
