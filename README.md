@@ -27,8 +27,11 @@ goals and process improvements.</h4>
 ---
 
 
-### Github Readme Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishek62010)
+### Github Readme Stats /n
+| 📊 GitHub Stats | 📚 Top Languages | 🔥 Streaks |
+| --- | --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek62010&show_icons=true&theme=blue&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek62010&layout=compact&theme=blue&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek62010&theme=blue&hide_border=true) |
+
 
 ### 🛠️ Tech Stack 🌐
 
@@ -74,7 +77,12 @@ Here are a few things I've worked on recently:
 📧 Email: Abhishekkr62010@gmail.com
 💻 GitHub: https://github.com/abhikumar62010 "
 
+```
+
 > 🧪 More projects available in my GitHub repositories!
+
+
+
 
 
 
