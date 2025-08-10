@@ -1,4 +1,6 @@
 🟩🟨🟧🟦
+<!--<img src="https://i.gifer.com/GYny.gif" alt="Coding" width="480"> -->
+
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Data Analyst| Coder | Python | SQL | Power BI | Excel</h3>
 
@@ -35,7 +37,7 @@ goals and process improvements.</h4>
 <img align="right" 
      alt="coding" 
      width="300" 
-     src="https://github.com/user-attachments/assets/da1e45c2-d3ed-493f-8b74-63a49fcb04fd">
+     src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 
