@@ -3,13 +3,9 @@
 <!--<img src="https://i.gifer.com/GYny.gif" alt="Coding" width="480"> -->
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Data Analyst| Coder | Python | SQL | Power BI | Excel</h3>
+<h3 align="center">A passionate Fullstack Developer | Data Analyst | Coder | Python | SQL | Power BI | Excel</h3>
 
-<h4 align="center"> My Portfolio
-Detail-oriented Data Analyst with a solid foundation in Python, SQL, and Power BI, combining strong coding skills with analytical and 
-using Python libraries such as Pandas and NumPy for data manipulation, and SQL for querying large datasets to extract insights. Skilled in 
-building dashboards and visual reports in Power BI to support data-driven decisions.. Also experienced with Microsoft Excel and Word for 
-data analysis and documentation. Brings strong problem-solving skills, analytical thinking, and clear communication to support business 
+<h4 align="center"> Detail-oriented Data Analyst and Fullstack Developer with a strong foundation in Python, SQL, Power BI, and web development technologies. Experienced in using Python libraries such as Pandas and NumPy for data manipulation and analysis, and skilled in querying large datasets with SQL to extract actionable insights. Proficient in building interactive dashboards and visual reports in Power BI to support data-driven decision-making. As a Fullstack Developer, knowledgeable in both frontend and backend development, including HTML, CSS, JavaScript, and frameworks like React and Node.js, enabling the creation of robust and user-friendly web applications. Additionally experienced with Microsoft Excel and Word for comprehensive data analysis and professional documentation. Brings strong problem-solving abilities, analytical thinking, and clear communication skills to support business objectives and collaborate effectively across teams.
 goals and process improvements.</h4>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
