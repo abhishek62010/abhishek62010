@@ -111,6 +111,14 @@ Here are a few things I've worked on recently:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abhishek62010&theme=blue)
 
+## 👾 cube Maze
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek62010/abhishek62010/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek62010/abhishek62010/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhishek62010/abhishek62010/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 
 
