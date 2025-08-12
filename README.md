@@ -128,7 +128,7 @@ Here are a few things I've worked on recently:
 
 # Donation & sponser
 
-❤️ Donate Here 
+❤️ Donate Here               
 
 
 <!--<table border="0" cellspacing="0" cellpadding="0">
@@ -150,18 +150,22 @@ Here are a few things I've worked on recently:
 <div>
   <div align="right">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D241F7&background=EF1EFF06&width=300&lines=scan+Me+" alt="Typing SVG 1" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D241F7&background=EF1EFF06&width=300&lines=scan+Me+" alt="Typing SVG 2" />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D241F7&background=EF1EFF06&width=300&lines=scan+Me+" alt="Typing SVG 3" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D241F7&background=EF1EFF06&width=300&lines=scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG 1" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D241F7&background=EF1EFF06&width=300&lines=scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG 2" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D241F7&background=EF1EFF06&width=300&lines=scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG 3" />
     </a>
   </div>
-  <div>
-    <img alt="support" width="300" src="https://raw.githubusercontent.com/abhishek62010/abhishek62010/23183bceda5011c61cfed0226049959e1cd40e67/donation.jpg" />
-  </div>
+  <div align="center" >
+    <img  alt="support" width="300" src="https://raw.githubusercontent.com/abhishek62010/abhishek62010/23183bceda5011c61cfed0226049959e1cd40e67/donation.jpg" />
+  
+   </div>
+    <div align="right">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=D2B4FF00&width=300&lines=Scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=D2B4FF00&width=300&lines=Scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=D2B4FF00&width=300&lines=Scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    </div>
 
   
 </div>
 
 
-
-  
