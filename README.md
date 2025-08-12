@@ -1,8 +1,19 @@
 🟩🟨🟧🟦
 <!--![logo]()
-<!--<img src="https://i.gifer.com/GYny.gif" alt="Coding" width="480"> -->
+<!--<img src="https://i.gifer.com/GYny.gif" alt="Coding" width="480"> 
+for this  https://readme-typing-svg.demolab.com/demo/
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+-->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&background=FE6DFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kumar" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
+<!--<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1> -->
+
 <h3 align="center">A passionate Fullstack Developer | Data Analyst | Coder | Python | SQL | Power BI | Excel</h3>
 
 <h4 align="center"> Detail-oriented Data Analyst and Fullstack Developer with a strong foundation in Python, SQL, Power BI, and web development technologies. Experienced in using Python libraries such as Pandas and NumPy for data manipulation and analysis, and skilled in querying large datasets with SQL to extract actionable insights. Proficient in building interactive dashboards and visual reports in Power BI to support data-driven decision-making. As a Fullstack Developer, knowledgeable in both frontend and backend development, including HTML, CSS, JavaScript, and frameworks like React and Node.js, enabling the creation  user-friendly web applications. Additionally experienced with Microsoft Excel and Word for comprehensive data analysis and professional documentation. Brings strong problem-solving abilities, analytical thinking, and clear communication skills to support business objectives and collaborate effectively across teams.
