@@ -82,6 +82,7 @@ Web Development  : HTML, CSS, JavaScript (Basic)
 Databases        : MySQL
 Tools & Platforms: Git, GitHub, VS Code, ChatGPT, DeepSeek
 Concepts         : Data Structures, Cybersecurity, Cloud Computing, SDLC, Testing
+Ai & Chatbots    : Chatbots & Automation n8n Workflows
 
 
 
