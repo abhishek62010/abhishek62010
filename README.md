@@ -24,6 +24,8 @@ goals and process improvements.</h4>
 </p>
 
 
+<!--https://skillicons.dev/ -->
+
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vscode,vite,nodejs,github,npm,redux,firbase)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="right" height="70" width="70">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
