@@ -35,7 +35,12 @@ goals and process improvements.</h4>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-3729582b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abhishekkr62010@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-3729582b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abhishekkr62010@gmail.com) [![X (Twitter)](https://img.shields.io/badge/X-%23FFD43B.svg?logo=x&logoColor=black)](https://x.com/Abhishekkr0314)
+
+
+
+
+
 
 # 💻 Tech Stack:
 
