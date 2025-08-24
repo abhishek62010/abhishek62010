@@ -184,7 +184,7 @@ Here are a few things I've worked on recently:
   </tr>
 </table>
 -->
-
+<div>
 <div>
   <div align="right">
     <a href="https://git.io/typing-svg">
@@ -202,8 +202,8 @@ Here are a few things I've worked on recently:
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=D2B4FF00&width=250&lines=Scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=D2B4FF00&width=250&lines=Scan+Me%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
     </div>
-
-  
+  </div>
 </div>
+
 
 
